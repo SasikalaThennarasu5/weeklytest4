@@ -1,0 +1,15 @@
+body {
+  background: linear-gradient(to right, #d3cce3, #e9e4f0);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+  border: none;
+  background: #fff;
+  border-radius: 12px;
+}
+
+button:disabled {
+  opacity: 0.8;
+  cursor: not-allowed;
+}
